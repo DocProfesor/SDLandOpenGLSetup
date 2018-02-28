@@ -7,7 +7,7 @@
 #include "GL\glew.h"
 #include "GL\glut.h"
 #include <GL\GLU.h>
-#include <SDL_image.h>
+#include "SDL_image.h"
 #include <string>
 #include <SDL_opengl.h>
 #include "SDL_thread.h"
